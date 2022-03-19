@@ -1,0 +1,8 @@
+#my initials in block letters
+print("J "*5, "Z "*5)
+print("    J    ", "         Z")
+print("    J    ", "       Z " )
+print("    J    ", "      Z   ")
+print("J   J    ", "    Z     ")
+print("J   J    ", "  Z       ")
+print(" J  J     ", "Z "*5)
