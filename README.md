@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jason
 - 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning C++ and Javascript
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
